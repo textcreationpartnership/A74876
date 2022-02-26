@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius Democritus, his last will and testament. With diverse legacies and wholsom admonitions, with other good cautions, left to all his friends and acquaintance, wheresoever dispersed, whether in England, Scotland, France, Ireland, Holland, Greenland , &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74876</idno>
+            <idno type="STC">Thomason E675_7</idno>
+            <idno type="STC">ESTC R233909</idno>
+            <idno type="EEBO-CITATION">53404324</idno>
+            <idno type="OCLC">ocm 53404324</idno>
+            <idno type="VID">166299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166299)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts; 104:E675[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius Democritus, his last will and testament. With diverse legacies and wholsom admonitions, with other good cautions, left to all his friends and acquaintance, wheresoever dispersed, whether in England, Scotland, France, Ireland, Holland, Greenland , &amp;c.</title>
+                  <author>Crouch, John, fl. 1660-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the sign of the blind mans Bough in Thames-street, between London-bridge and Puddle-wharf,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Possibly by John Crouch, after the style of Mercurius Democritus and The laughing mercury. Cf. Thomason.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166299:1" rendition="simple:additions"/>
+            <p>
+               <hi>Mercurius Democritus,</hi> HIS LAST WILL <hi>AND</hi> TESTAMENT. With divers Legacies and wholſom ADMONITIONS, With other good <hi>Cautions,</hi> left to all his Friends and Acquaintance, whereſoever diſperſed, Whether in <hi>England, Scotland, France, Ireland, Holland, Greenland,</hi> &amp;c.</p>
+            <lg>
+               <l>
+                  <hi>Democritus,</hi> finding himſelf ill,</l>
+               <l>Sends for a <hi>Scribe</hi> to make his <hi>Will;</hi>
+               </l>
+               <l>Which he ſoon did, and doth beſtow</l>
+               <l>His <hi>Legacies</hi> on you below:</l>
+               <l>With <hi>Leſſons</hi> t' ſhun <hi>Pride</hi> and <hi>folly;</hi>
+               </l>
+               <l>And <hi>Rules</hi> to cure <hi>Melancholly.</hi>
+               </l>
+               <l>Which being done (ſtraining for breath)</l>
+               <l>Had like t' have <hi>laught</hi> himſelf to death.</l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed at the ſign of <hi>The blind mans Bough</hi> in <hi>Thames-ſtreet,</hi> between <hi>London-bridge,</hi> and <hi>Puddle-wharf.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166299:2"/>
+            <pb n="3" facs="tcp:166299:2"/>
+            <head>
+               <hi>MERC<g ref="char:V">Ʋ</g>RI<g ref="char:V">Ʋ</g>S</hi> DEMOCRITUS, HIS LAST WILL <hi>AND</hi> TESTAMENT.</head>
+            <p>WHereas I <hi>Mercurius Democritus</hi> of the Family of the <hi>Jovalliſts,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Merryford,</hi> being ſomething ſick in body, rich in eſtate, but in per<g ref="char:EOLhyphen"/>feſt memory, do in the preſence of many of my beſt Friends and Acquaintance make this my laſt <hi>Will and Teſtament</hi> in manner and form following;</p>
+            <p>
+               <hi>Inprimis,</hi> I do give my body to be proportionably de<g ref="char:EOLhyphen"/>vided amongſt all my <hi>Creditors</hi> in full ſatisfaction of all my <hi>Debts;</hi> and therefore in the firſt place do bequeath my head to the Haberdaſher at the <hi>Dolphin</hi> in <hi>Long-lane,</hi> that as it hath been formerly ſtuff'd with <hi>quibbles, jeaſts, con<g ref="char:EOLhyphen"/>ceits, fancies, crotchets, whimzies</hi> and the like; ſo he may im<g ref="char:EOLhyphen"/>ploy it for the <hi>Common-good,</hi> to invent <hi>new faſhions</hi> for his <hi>Hats</hi> and <hi>Hat-bands;</hi> ſet forth after the <hi>al-la-mode</hi> with <hi>de<g ref="char:EOLhyphen"/>vices</hi> of <hi>feathers, ribbands, favors</hi> of all <hi>colours;</hi> Provided he give my <hi>haire</hi> to my honeſt <hi>Barber J. P.</hi> in <hi>Goſſwel
+<pb n="4" facs="tcp:166299:3"/> Street,</hi> to be ſufficiently <hi>powdered</hi> with <hi>white Powder,</hi> and afterwards to be compoſed into a <hi>Perriwigge</hi> for the uſe of him that hath beſt deſerv'd it, of all the <hi>Levelling Rant-Maſters</hi> in <hi>Alderſgate ſtreet.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my <hi>Eyes</hi> to the <hi>Weepers,</hi> or in their abſence to <hi>Mercurius Heraclitus.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my <hi>Teeth</hi> to the next Barber, to be ſtrung up at his window, having had this three year but very ſmall uſe or imployment for them my ſelf.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my <hi>Wit</hi> to him that never knew miſery, or would fain ſee the inſide of a priſon.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my <hi>neck</hi> to the hanſomeſt <hi>Semſtreſs</hi> in the <hi>Exchange,</hi> that ſhe may fit it with <hi>new bands</hi> to be in a readineſs againſt the next <hi>Spring.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give my <hi>ſhoulders</hi> to my City-Taskmaſters to heap on them whatſoever they ſhall pleaſe, being reſol<g ref="char:EOLhyphen"/>ved to bear what ever they lay upon me.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my <hi>heart</hi> to all honeſt men in the Common-wealth, that have a deſire to do as they would be done by.</p>
+            <p>
+               <hi>Item,</hi> I give my <hi>ſides</hi> to the ſtrongeſt <hi>Faction,</hi> being in theſe times the beſt policy to <hi>ſide</hi> with the powerfulleſt Party.</p>
+            <p>I would give my <hi>ſtomack</hi> to any body, but I doubt no body will be at charge to provide for it that loves <hi>Horſe-fleſh.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give my <hi>Armes</hi> to him that is the beſt Souldier in Chriſtendome, provided my hands be delivered to <hi>Scriveners-Hall,</hi> to ſubſcribe Bills, Bonds, and Obligati<g ref="char:EOLhyphen"/>ons, ever hereafter, to do penance for writing Pamphlets.</p>
+            <p>
+               <hi>Item,</hi> I give my <hi>Liver</hi> to him that deſires to <hi>live</hi> well; the health of the body much conſiſting of a <hi>good</hi> and <hi>ſound Liver.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give my <hi>Lungs</hi> to the bawling <hi>Levites</hi> of theſe <hi>times,</hi> provided they be all Presbyterians.</p>
+            <p>
+               <hi>Item,</hi> I give my <hi>belly</hi> and <hi>guts</hi> to the <hi>Pye-Corner</hi> Cooks, provided the next Saſſage-woman may have part of them to ſtop her mouth againſt her husband.</p>
+            <pb n="5" facs="tcp:166299:3"/>
+            <p>
+               <hi>Item,</hi> I do give and bequeath my <hi>back-ſide</hi> or <hi>Poſteriors</hi> to all my baek-friends, provided they be at leaſt Alder<g ref="char:EOLhyphen"/>men of the City of <hi>Trumpington,</hi> or to the Lord of that Soyle, or chief &amp; privie Officer belonging to the Cinque-Ports thereof, and all ſuch pofit, or profits that ſhall a<g ref="char:EOLhyphen"/>riſe therefrom by the Terpitudinary, Excrementall, or Merducinous Ordure, to be duly collected for the uſe of the <hi>Officiall,</hi> whether it be in Muck, Muckhills, Mixens, Smells, Savours, Scents, Vapours, &amp;c. and to be gathered by ſaid Officiall for the uſe of the Stinkard belonging to the City aforeſaid, and to be diſpoſed of as he and the reſt of his venerable Brethren ſhall think fit.</p>
+            <p>
+               <hi>Item,</hi> I give my <hi>thighes</hi> to all thoſe that love to ſuck <hi>Marrow-bones,</hi> that having loſt their <hi>mettle</hi> with <hi>exerciſing</hi> they may in ſhort time repair it again, and become able <hi>performers.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give my <hi>knees</hi> to all thoſe that will not ſuper<g ref="char:EOLhyphen"/>ſtitiouſly bend or bow them either in Divine Worſhip, or to Parents or Magiſtrates.</p>
+            <p>
+               <hi>Item,</hi> I give my <hi>leggs</hi> to Major Gen. <hi>Maſſiy,</hi> provided he make the right uſe of them, and not to wrong their <hi>calves</hi> in fighting againſt his own Countrey-men.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath my <hi>heels</hi> to all Exciſe-men, Collectors, and Sequeſtrators that cannot caſt account, or make appear what is become of the Common-wealths Money.</p>
+            <p>
+               <hi>Item,</hi> I give my <hi>Toes</hi> to his Majeſties Corncutter to be pared ſharp, that they may the better kick at the bare buttocks of <hi>Vice</hi> and <hi>Wickedneſs.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I give and bequeath all my wearing cloathes to the honeſt <hi>Broakers</hi> to make them amends for all the true abuſes I have done them in writing or otherwiſe; provi<g ref="char:EOLhyphen"/>ded that they ſuffer me to wear one ſuit during the ſhort remainder of my life, and that they take no uſe or week<g ref="char:EOLhyphen"/>ly payment for the ſame.</p>
+            <lg>
+               <l>Since all their <hi>Pawnes</hi> are now at half year ſold,</l>
+               <l>The <hi>Jews</hi> may pawn their faith and ſouls for <hi>Gold.</hi>
+               </l>
+            </lg>
+            <pb n="6" facs="tcp:166299:4"/>
+            <p>
+               <hi>Item,</hi> I give and bequeath my <hi>Fancy</hi> to all Gentlemen that take their chief delight in <hi>Hawking</hi> and <hi>Hunting;</hi> which <hi>Fancy</hi> will ſit ſtill and <hi>conceive</hi> all kind of excellent <hi>ſports</hi> without any toyle or charges in keeping <hi>Hawks</hi> and <hi>Hounds,</hi> when ſo many poor <hi>Christians</hi> ſtarve for want of bread.</p>
+            <p>
+               <hi>Item,</hi> I give and bequeath to all poor diſtreſſed <hi>Pam<g ref="char:EOLhyphen"/>phleteers</hi> my Invention and <hi>Gooſes-quill</hi> to purchaſe them (with ſcribling a whol ſheet) a pot or a Pipe, or perhaps (if it <hi>take</hi>) half a Crown to pay for their lodging and diet a a moneth after, if the knaviſh Stationer do not couzen him of it.</p>
+            <p>
+               <hi>Item,</hi> I do give and bequeath my <hi>skin</hi> to the <hi>Gentle-Craft,</hi> that they may make uſe of it for <hi>Inner-ſoles;</hi> provi<g ref="char:EOLhyphen"/>ded it be firſt throughly tanned and well liquored every <hi>Monday</hi> at the ſign of <hi>Criſpin</hi> and <hi>Criſpianus,</hi> before it ever ſuffer the ſtroaking of St. <hi>Hughs-bones,</hi> or come to be pa<g ref="char:EOLhyphen"/>red, ſowed, or ſtretched on the <hi>Laſt,</hi> that it may the better hold out water; Provided that Dr. <hi>Trig</hi> have no hand or benefit therefrom, upon pain of all ſuch ware to be forfeit to <hi>Democritus</hi> his Ghoſt.</p>
+            <p>
+               <hi>Item,</hi> I give to all iourney men <hi>Taylors</hi> three dayes in the week a half-penny loaf a piece to their breakfaſt; provided they have a ſpeciall care of all the <hi>odd Remnants,</hi> and on Sunday winde up their <hi>bottomes,</hi> and lick their <hi>Thimbles</hi> clean, that they may the better go <hi>through-ſlitch</hi> with their work all the week after; and the more vali<g ref="char:EOLhyphen"/>antly encounter with the <hi>Rakabites</hi> and <hi>Moabites</hi> their daily combitants; and in caſe <hi>Whalebone</hi> ſhould be dear this year, It is <hi>Ordered,</hi> That they kill the tame <hi>Whale</hi> kept in <hi>Rumley-Marſh.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> I do give and bequeath to the <hi>Butchers</hi> all my fat Cattell, whether Oxen, Calves, Sheep, Goats, &amp;c. provi<g ref="char:EOLhyphen"/>ded that they preſerve the head and <hi>Horns</hi> for the uſe of the City, the one to feed the poor, and the other to <hi>adorn</hi> the rich; and what are over-plus to be converted to the uſe newly found out, in making of <hi>Horn-Glaſſes.</hi>
+            </p>
+            <pb n="7" facs="tcp:166299:4"/>
+            <p>
+               <hi>Item,</hi> I give and bequeath to the <hi>Ale-Brewers</hi> the care of all my <hi>Pot-Companions,</hi> in hopes (now I am gone) they will be more pittifull to them then the <hi>Ale-wives</hi> or <hi>Tap<g ref="char:EOLhyphen"/>ſters,</hi> who after they had ſpent all their money would commonly abuſe them, and kick them out of doors, or elſe empty a <hi>Chamber-pot</hi> on their heads.</p>
+            <p>
+               <hi>Item,</hi> I give to all <hi>Bakers</hi> a <hi>Caveat</hi> how they buy their <hi>Meal,</hi> by reaſon a company of knaves (called Meal-men) have now got a trick to <hi>boult</hi> Barly-meal into Wheat, and to juggle with the <hi>Miller</hi> to grind their Grain high or low for their own ends, the better to <hi>mingle</hi> one <hi>Meale</hi> with another.</p>
+            <p>
+               <hi>Item,</hi> I give to all Hedge-<hi>Vintners</hi> a wholeſome and needfull <hi>Caveat</hi> to avoid the <hi>ſins of the Cellar,</hi> in wracking, brewing, feeding their <hi>ſick,</hi> and mixing their <hi>Wines</hi> with divers hurtfull Ingredients that diſturbs the brain, and poyſons the body, and infects the memory of any that are ſo ſottiſh, or ſtupid, to drink thereof.</p>
+            <p>
+               <hi>Item,</hi> I do give and bequeath my lean-<hi>dun Cow,</hi> (being one of <hi>Pharaohs breed</hi>) to Mr. <hi>Mallet</hi> the <hi>Lawyer,</hi> and a big grown <hi>Pike</hi> (that hath devoured all the ſmall fiſh in my Pond) to the reſt of his honorable <hi>fraternity;</hi> Provided my <hi>Patience</hi> be firſt given to their <hi>Clients;</hi> and my money to <hi>ſee</hi> or <hi>bribe</hi> their <hi>Clerks.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>Lawyers</hi> are <hi>Beares,</hi> and Poor men ought to fear'em,</l>
+               <l>Like ravening <hi>Wolves;</hi> 'Tis dangerous to come neer'em.</l>
+            </lg>
+            <p>
+               <hi>Item,</hi> I give and bequeath my <hi>thirſt</hi> to all <hi>Gold-ſmiths, Black-ſmiths, Jack-Smiths, Lock-ſmiths, Gun-ſmiths, Brazi<g ref="char:EOLhyphen"/>ers, Pewterers, Clock-makers, Founders, Pin-makers, Thimble-makers, Plummers, Cutlers, Nedle-makers, Bell-founder, Tinkers</hi> and <hi>Glaſſ-makers,</hi> and to all and every lad of <hi>Mettall;</hi> Pro<g ref="char:EOLhyphen"/>vided, That it ſhall be lawfull for any <hi>ſober Artiſt,</hi> to Aske Take and Receive one <hi>Groat</hi> of any of the Perſons afore<g ref="char:EOLhyphen"/>ſaid that ſhall preſume to <hi>Bridle, Saddle, Ride</hi> or <hi>mount</hi> the common <hi>reeling</hi> Jade <hi>called C<g ref="char:V">Ʋ</g>T;</hi> and that every ſuch ſober journey-man ſhall receive the <hi>forfeiture</hi> aforeſaid, without any favor, deceit or connivance whatſoever.</p>
+            <pb n="8" facs="tcp:166299:5"/>
+            <p>
+               <hi>Laſtly,</hi> I give to <hi>Lilly</hi> and <hi>Culpepper,</hi> two new <hi>Aſs-ſtro<g ref="char:EOLhyphen"/>lobes,</hi> with a <hi>Jacobs-flaff</hi> to take the Altitude, Longitude, Latitude, Craſſitude, Magnitude, and Amplitude of all <hi>Stars,</hi> whether on ſign-poſts or otherwiſe, fixed or wan<g ref="char:EOLhyphen"/>dring, the better to know their divers Aſpects, their kinds, opperations, diſtance, Conjunctions, Motions and Pro<g ref="char:EOLhyphen"/>perties; Which of them riſe <hi>Coſmically</hi> and fall <hi>Ironnically;</hi> which <hi>Starrs</hi> exceed the bigneſs of the earth, and which not; which are <hi>Maſculine,</hi> and which <hi>Feminine,</hi> which re<g ref="char:EOLhyphen"/>ſide in the <hi>Zodiak,</hi> and which do not; Provided that <hi>Nick</hi> begin firſt at the <hi>Ram,</hi> and <hi>Will</hi> follow on the <hi>Bull</hi> till they come through all the 12 <hi>Houſes</hi> to <hi>Peregaeon,</hi> the loweſt re<g ref="char:EOLhyphen"/>gion, and there with <hi>the Great Dogg,</hi> and the <hi>Whelp,</hi> make a <hi>Beare-bayting,</hi> that all the <hi>Lunaticks</hi> which they made to run mad for fear of the <hi>Great Ecclipſe,</hi> may be invited to the ſame; and all that fell into <hi>Conſumptions</hi> then, may behold the <hi>Sport</hi> to make them part of amends; and after<g ref="char:EOLhyphen"/>wards that <hi>Culpepper</hi> purge them, blood them, and <hi>Cutt</hi> them of the <hi>ſimples</hi> for believing ſuch falſe <hi>Predictors,</hi> that can tell no more (but by the comon <hi>Rules,</hi> and <hi>courſe of Mature</hi>) then <hi>Will</hi> himſelf could tell <hi>Who be—this door.</hi>
+            </p>
+            <lg>
+               <l>Thus <hi>Democritus</hi> laughing ſtill,</l>
+               <l>Bid the Scrivener end his <hi>Will;</hi>
+               </l>
+               <l>And turning in the midſt on's laugh</l>
+               <l>Swan-like he ſung his Epitaph.</l>
+            </lg>
+            <lg>
+               <head>His EPITAPH.</head>
+               <l>No Bell towl, but laugh and ſing,</l>
+               <l>a Grave's a Palace to me;</l>
+               <l>Paſſions but <hi>Diſeaſes</hi> bring,</l>
+               <l>there K—s can ne'r undo me.</l>
+            </lg>
+            <lg>
+               <l>There's nothing welcomer then <hi>Death,</hi>
+               </l>
+               <l>that perfect joyes will bring me;</l>
+               <l>When <hi>Angels</hi> wait for my laſt <hi>breath,</hi>
+               </l>
+               <l>in <hi>Quires</hi> to <hi>heav'n</hi> they'l <hi>ſing</hi> me.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
